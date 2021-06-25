@@ -1,1 +1,54 @@
-% this file should contain the master document and include statements for individual contributions
+\documentclass[12pt,a4paper,final]{article}
+%\usepackage{verbatim}
+\usepackage[utf8]{inputenc}
+\usepackage{amsfonts, amssymb, amsmath}
+\usepackage{graphicx}
+\usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry}
+%\usepackage{setspace}
+%\usepackage[export]{adjustbox}
+\usepackage{float}
+%\usepackage{sectsty}
+%\usepackage{caption}
+\setlength{\parindent}{0cm}
+
+\title {\vspace{3cm}MM2090: Introduction to Scientific Computing\\
+		\vspace{2cm}		
+		Assignment 4}
+
+\author {\vspace{2cm}
+		 \\Aditya Dhoke (ME20B014)\vspace{0.2cm}
+		 \\ Anushka Vadhavkar (ME20B028)\vspace{0.2cm}
+		 \\Jay Harish Shah (ME20B088)\vspace{0.2cm}
+		 \\ Sukeerth Ramkumar (ME20B178)}
+
+\date {\vspace{1cm}\today}
+
+%\linespread{1}
+\begin{document}
+	
+	\maketitle
+	\vspace*{0.5cm}
+	\newpage
+	
+	\tableofcontents
+	\newpage
+	%\listoffigures
+	%\newpage
+
+%--------------------------------
+
+\input{me20b014/me20b014.tex}
+\vspace{0.5cm}
+\input{me20b028/me20b028.tex}
+\vspace{0.5cm}
+\input{me20b088/me20b088.tex}
+\vspace{0.5cm}
+\input{me20b178/me20b178.tex}
+
+%--------------------------------
+
+\newpage
+\bibliography{team-5.bib}
+\bibliographystyle{plain}
+
+\end{document}
