@@ -1,4 +1,0 @@
-The MM2090 course is a good course.
-I learned a lot from this course and also made myself comfortable with the
-coding environment. 
-The best topics I learned from this course are sagemath,latex and octave.
