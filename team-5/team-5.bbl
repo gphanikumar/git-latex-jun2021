@@ -1,0 +1,34 @@
+\begin{thebibliography}{1}
+
+\bibitem{Chorin}
+A.J. Chorin.
+\newblock Numerical solution of the navier-stokes equations.
+\newblock {\em Mathematics of Computation}, 22(104):745--762, 1968.
+\newblock cited By 3751.
+
+\bibitem{lazarian}
+A.~Lazarian and D.~Pogosyan.
+\newblock Velocity modification of h i power spectrum.
+\newblock {\em Astrophysical Journal}, 537(2 PART 1):720--748, 2000.
+\newblock cited By 265.
+
+\bibitem{Mallinson20001976}
+J.C. Mallinson.
+\newblock Damped gyromagnetic switching.
+\newblock {\em IEEE Transactions on Magnetics}, 36(4 PART 2):1976--1981, 2000.
+\newblock cited By 29.
+
+\bibitem{Verlinde2011}
+E.~Verlinde.
+\newblock On the origin of gravity and the laws of newton.
+\newblock {\em Journal of High Energy Physics}, 2011(4), 2011.
+\newblock cited By 544.
+
+\bibitem{wu}
+J.~Wu, J.~Wang, L.~Wang, and T.~Li.
+\newblock Dynamics and control of a planar 3-dof parallel manipulator with
+  actuation redundancy.
+\newblock {\em Mechanism and Machine Theory}, 44(4):835--849, 2009.
+\newblock cited By 248.
+
+\end{thebibliography}

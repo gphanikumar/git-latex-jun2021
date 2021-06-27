@@ -1,0 +1,10 @@
+This is a file where I describe my experience of MM2090 course.
+At the start of this course I had no idea how it was going to be ... But as the days passed by , I became more and more interested and comfortable with the new operating
+system. I never worked on a different OS before , I really thank professor to teach us this course and that too in such an amazing way. 
+I liked sagemath very much , as it made almost all math calculations just a code away now.. The use of LaTex to create PDF documents also made the course very interesting.
+I always wondered how the math symbols are printed in a book , now I came to  know that it can be easily done through LaTex.
+Summing it all up , this was the best course this semester nad I would highly recommend this to be almost compulsory for all first years...
+
+ 
+ 
+
