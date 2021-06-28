@@ -1,0 +1,7 @@
+#ignore all the generated files other than .tex .bib .dvi .ps
+*.aux
+*.bbl
+*.blg
+*.log
+*.toc
+*.aux
