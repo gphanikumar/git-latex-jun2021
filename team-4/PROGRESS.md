@@ -2,17 +2,19 @@
 >Note: to check the box, go to edit mode and change `[ ]` to `[x]`
 #### Q2
 
-- [ ] Anshid
+- [x] Anshid
 - [ ] Chris
-- [ ] Gokul
-- [ ] Sid
+- [x] Gokul
+- [x] Sid
+- [ ] Abhishek
 
 #### Q3
 
-- [ ] Anshid
+- [x] Anshid
 - [ ] Chris
-- [ ] Gokul
-- [ ] Sid
+- [x] Gokul
+- [x] Sid
+- [ ] Abhishek
 
 #### Q4
 
@@ -20,6 +22,7 @@
 - [ ] Chris
 - [ ] Gokul
 - [ ] Sid
+- [ ] Abhishek
 
 #### Q5
 
