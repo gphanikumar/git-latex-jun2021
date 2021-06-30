@@ -6,7 +6,7 @@
 - [ ] Chris
 - [x] Gokul
 - [x] Sid
-- [ ] Abhishek
+- [x] Abhishek
 
 #### Q3
 
@@ -14,7 +14,7 @@
 - [ ] Chris
 - [x] Gokul
 - [x] Sid
-- [ ] Abhishek
+- [x] Abhishek
 
 #### Q4
 
