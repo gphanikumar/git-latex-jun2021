@@ -1,0 +1,11 @@
+@MISC{IE,
+author = {Wikipedia},
+title = {Internal energy},
+howpublished={\url{https://en.wikipedia.org/wiki/Internal_energy}}
+}
+@MISC{Image,
+author = { },
+title = {Internal energy v/s Temperature},
+howpublished={\url{https://keystagewiki.com/index.php/Internal_Energy}}
+}
+
