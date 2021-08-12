@@ -1,0 +1,16 @@
+\contentsline {section}{\numberline {1}Aditya Dhoke (ME20B014)}{3}{}%
+\contentsline {subsection}{\numberline {1.1}What is Newton's Law of Gravitation?}{3}{}%
+\contentsline {subsection}{\numberline {1.2}Universal Gravitation Constant}{3}{}%
+\contentsline {subsection}{\numberline {1.3}Mass of the Body}{3}{}%
+\contentsline {subsection}{\numberline {1.4}Distance between two bodies}{4}{}%
+\contentsline {subsection}{\numberline {1.5}Force}{4}{}%
+\contentsline {subsection}{\numberline {1.6}Importance of Newton's Law of Universal Gravitation}{4}{}%
+\contentsline {section}{\numberline {2}Anushka Vadhavkar (ME20B028)}{5}{}%
+\contentsline {section}{\numberline {3}Jay Harish Shah (ME20B088)}{5}{}%
+\contentsline {subsection}{\numberline {3.1}Analysis}{5}{}%
+\contentsline {section}{\numberline {4}Sukeerth Ramkumar (ME20B178)}{6}{}%
+\contentsline {subsection}{\numberline {4.1}Landau-Lifshitz-Gilbert equation}{6}{}%
+\contentsline {subsection}{\numberline {4.2}Physical quantities used in the equation}{6}{}%
+\contentsline {subsection}{\numberline {4.3}LLG-derived equations}{6}{}%
+\contentsline {subsection}{\numberline {4.4}Gaining more insights into the equation}{7}{}%
+\contentsline {subsection}{\numberline {4.5}Development of the LLG equation}{8}{}%
