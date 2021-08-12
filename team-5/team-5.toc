@@ -14,3 +14,7 @@
 \contentsline {subsection}{\numberline {4.3}LLG-derived equations}{6}{}%
 \contentsline {subsection}{\numberline {4.4}Gaining more insights into the equation}{7}{}%
 \contentsline {subsection}{\numberline {4.5}Development of the LLG equation}{8}{}%
+\contentsline {section}{\numberline {5}Nayanatara Deepak (MM20B042)}{8}{}%
+\contentsline {subsection}{\numberline {5.1}What is the Coulomb's Law?}{8}{}%
+\contentsline {subsection}{\numberline {5.2}Different terms used in Coulomb's Law}{9}{}%
+\contentsline {subsection}{\numberline {5.3}Importance of Coulomb's Law}{9}{}%
